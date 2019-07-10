@@ -1,0 +1,20 @@
+/* You can add global styles to this file, and also import other style files */
+input.ng-touched.ng-invalid{
+   border-color: rgb(206, 24, 24);
+}
+
+input.ng-valid{
+    border-color: rgb(35, 196, 10);
+ }
+
+ .green-icon{
+     color:  rgb(35, 196, 10);
+ }
+
+ .red-icon{
+    color: rgb(206, 24, 24); 
+ }
+
+ #toastr-container>div{
+     opacity: 1;
+ }

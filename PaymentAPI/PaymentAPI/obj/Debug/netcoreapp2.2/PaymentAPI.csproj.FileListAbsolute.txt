@@ -1,0 +1,14 @@
+E:\FW\work\Payment\PaymentAPI\PaymentAPI\bin\Debug\netcoreapp2.2\PaymentAPI.deps.json
+E:\FW\work\Payment\PaymentAPI\PaymentAPI\bin\Debug\netcoreapp2.2\PaymentAPI.runtimeconfig.json
+E:\FW\work\Payment\PaymentAPI\PaymentAPI\bin\Debug\netcoreapp2.2\PaymentAPI.runtimeconfig.dev.json
+E:\FW\work\Payment\PaymentAPI\PaymentAPI\bin\Debug\netcoreapp2.2\PaymentAPI.dll
+E:\FW\work\Payment\PaymentAPI\PaymentAPI\obj\Debug\netcoreapp2.2\PaymentAPI.csprojAssemblyReference.cache
+E:\FW\work\Payment\PaymentAPI\PaymentAPI\obj\Debug\netcoreapp2.2\PaymentAPI.csproj.CoreCompileInputs.cache
+E:\FW\work\Payment\PaymentAPI\PaymentAPI\obj\Debug\netcoreapp2.2\PaymentAPI.RazorAssemblyInfo.cache
+E:\FW\work\Payment\PaymentAPI\PaymentAPI\obj\Debug\netcoreapp2.2\PaymentAPI.RazorAssemblyInfo.cs
+E:\FW\work\Payment\PaymentAPI\PaymentAPI\obj\Debug\netcoreapp2.2\PaymentAPI.AssemblyInfoInputs.cache
+E:\FW\work\Payment\PaymentAPI\PaymentAPI\obj\Debug\netcoreapp2.2\PaymentAPI.AssemblyInfo.cs
+E:\FW\work\Payment\PaymentAPI\PaymentAPI\obj\Debug\netcoreapp2.2\PaymentAPI.RazorTargetAssemblyInfo.cache
+E:\FW\work\Payment\PaymentAPI\PaymentAPI\bin\Debug\netcoreapp2.2\PaymentAPI.pdb
+E:\FW\work\Payment\PaymentAPI\PaymentAPI\obj\Debug\netcoreapp2.2\PaymentAPI.dll
+E:\FW\work\Payment\PaymentAPI\PaymentAPI\obj\Debug\netcoreapp2.2\PaymentAPI.pdb
